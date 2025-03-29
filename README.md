@@ -43,7 +43,7 @@ To get started with the project, follow these steps:
 
 1. Install the required dependencies (if any).
 2. Clone the repository or download the project files.
-3. Set up the necessary environment (e.g., Python virtual environment).
+3. Set up the necessary environment .
 4. Update the configuration settings if needed (e.g., browser choice).
 5. Run the automation script and observe the results.
 
